@@ -133,7 +133,7 @@ namespace prog_poe_s02_task1
             // 
             // groupBox1
             // 
-            this.groupBox1.BackColor = System.Drawing.Color.DarkSalmon;
+            this.groupBox1.BackColor = System.Drawing.Color.RosyBrown;
             this.groupBox1.Controls.Add(this.pictureBox1);
             this.groupBox1.Controls.Add(this.label2);
             this.groupBox1.Controls.Add(this.linkLabel1);
@@ -155,7 +155,7 @@ namespace prog_poe_s02_task1
             // 
             // groupBox2
             // 
-            this.groupBox2.BackColor = System.Drawing.Color.DarkSalmon;
+            this.groupBox2.BackColor = System.Drawing.Color.RosyBrown;
             this.groupBox2.Controls.Add(this.pictureBox2);
             this.groupBox2.Controls.Add(this.label3);
             this.groupBox2.Controls.Add(this.linkLabel2);
@@ -177,7 +177,7 @@ namespace prog_poe_s02_task1
             // 
             // groupBox3
             // 
-            this.groupBox3.BackColor = System.Drawing.Color.DarkSalmon;
+            this.groupBox3.BackColor = System.Drawing.Color.RosyBrown;
             this.groupBox3.Controls.Add(this.pictureBox3);
             this.groupBox3.Controls.Add(this.label4);
             this.groupBox3.Controls.Add(this.linkLabel3);
@@ -201,7 +201,7 @@ namespace prog_poe_s02_task1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.BackColor = System.Drawing.Color.PeachPuff;
+            this.BackColor = System.Drawing.Color.MistyRose;
             this.ClientSize = new System.Drawing.Size(697, 399);
             this.Controls.Add(this.groupBox3);
             this.Controls.Add(this.groupBox2);

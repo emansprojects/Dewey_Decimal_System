@@ -31,11 +31,12 @@ namespace prog_poe_s02_task1
         //IDENTIFYING AREAS
         private void linkLabel2_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            //MADE UNAVAILABLE - MESSAGEBOX
-            string message = "Item not Available!";
-            string title = "Notification";
-            MessageBoxButtons buttons = MessageBoxButtons.OK;
-            DialogResult result1 = MessageBox.Show(message, title, buttons, MessageBoxIcon.Error);
+            //HIDES THE CURRENT FORM AND SHOWS A NEW FORM
+            //MADE AVAILABLE 
+            this.Hide();
+            var form4 = new Form4();
+            form4.Closed += (s, args) => this.Close();
+            form4.Show();
         }
 
         //FINDING CALL NUMBERS
@@ -46,6 +47,12 @@ namespace prog_poe_s02_task1
             string title = "Notification";
             MessageBoxButtons buttons = MessageBoxButtons.OK;
             DialogResult result1 = MessageBox.Show(message, title, buttons, MessageBoxIcon.Error);
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Form4 form4 = new Form4();
+            form4.Show();
         }
     }
 }

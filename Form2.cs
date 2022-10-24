@@ -390,6 +390,15 @@ namespace prog_poe_s02_task1
                 }
             }
         }
-     
+
+        private void linkLabel1_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
+        {
+            //MAIN MENU BUTTON IS CLICKED 
+            //HIDES THE CURRENT FORM AND SHOWS A NEW FORM
+            this.Hide();
+            var form1 = new Form1();
+            form1.Closed += (s, args) => this.Close();
+            form1.Show();
+        }
     }
 }
