@@ -42,11 +42,12 @@ namespace prog_poe_s02_task1
         //FINDING CALL NUMBERS
         private void linkLabel3_LinkClicked(object sender, LinkLabelLinkClickedEventArgs e)
         {
-            //MADE UNAVAILABE - MESSAGEBOX
-            string message = "Item not Available!";
-            string title = "Notification";
-            MessageBoxButtons buttons = MessageBoxButtons.OK;
-            DialogResult result1 = MessageBox.Show(message, title, buttons, MessageBoxIcon.Error);
+            //HIDES THE CURRENT FORM AND SHOWS A NEW FORM
+            //MADE AVAILABLE 
+            this.Hide();
+            var form5 = new Form5();
+            form5.Closed += (s, args) => this.Close();
+            form5.Show();
         }
 
         private void button1_Click(object sender, EventArgs e)

@@ -400,5 +400,26 @@ namespace prog_poe_s02_task1
             form1.Closed += (s, args) => this.Close();
             form1.Show();
         }
+
+        //INSTRUCTIONS BUTTON CLICKED 
+        private void button5_Click(object sender, EventArgs e)
+        {
+            //GIVES USER INSTRUCTIONS ON HOW TO REPLACE BOOKS 
+            string message = "Follow the instructions to complete this task:" +
+                "\n 1. A set of random call numbers will be given in the left column." +
+                "\n 2. Drag and drop the call numbers from left column to right column in ascendinng order." +
+                "\n 3. After dropping click on the button 'check' to see if you got the correct ordering." +
+                "\n 4. If you got the ordering correct you get points." +
+                "\n 5. You can try agai multiple times.";
+            string title = "Instructions";
+            MessageBoxButtons buttons = MessageBoxButtons.OK;
+            DialogResult result = MessageBox.Show(message, title, buttons, MessageBoxIcon.Information);
+
+            //USER CLICKED OK
+            if (result == DialogResult.OK)
+            {
+                //DO NOTHING 
+            }
+        }
     }
 }

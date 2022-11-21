@@ -43,6 +43,7 @@ namespace prog_poe_s02_task1
             this.label8 = new System.Windows.Forms.Label();
             this.groupBox1 = new System.Windows.Forms.GroupBox();
             this.linkLabel1 = new System.Windows.Forms.LinkLabel();
+            this.button5 = new System.Windows.Forms.Button();
             this.groupBox1.SuspendLayout();
             this.SuspendLayout();
             // 
@@ -100,9 +101,9 @@ namespace prog_poe_s02_task1
             // button1
             // 
             this.button1.BackColor = System.Drawing.Color.RosyBrown;
-            this.button1.Location = new System.Drawing.Point(223, 365);
+            this.button1.Location = new System.Drawing.Point(217, 366);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(81, 23);
+            this.button1.Size = new System.Drawing.Size(92, 29);
             this.button1.TabIndex = 5;
             this.button1.Text = "Check";
             this.button1.UseVisualStyleBackColor = false;
@@ -119,7 +120,7 @@ namespace prog_poe_s02_task1
             // 
             // progressBar1
             // 
-            this.progressBar1.Location = new System.Drawing.Point(109, 394);
+            this.progressBar1.Location = new System.Drawing.Point(109, 401);
             this.progressBar1.Name = "progressBar1";
             this.progressBar1.Size = new System.Drawing.Size(299, 23);
             this.progressBar1.TabIndex = 7;
@@ -186,12 +187,25 @@ namespace prog_poe_s02_task1
             this.linkLabel1.Text = "Main Menu";
             this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
             // 
+            // button5
+            // 
+            this.button5.BackColor = System.Drawing.Color.RosyBrown;
+            this.button5.ForeColor = System.Drawing.SystemColors.WindowText;
+            this.button5.Location = new System.Drawing.Point(463, 401);
+            this.button5.Name = "button5";
+            this.button5.Size = new System.Drawing.Size(110, 31);
+            this.button5.TabIndex = 31;
+            this.button5.Text = "INSTRUCTIONS";
+            this.button5.UseVisualStyleBackColor = false;
+            this.button5.Click += new System.EventHandler(this.button5_Click);
+            // 
             // Form2
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.MistyRose;
-            this.ClientSize = new System.Drawing.Size(585, 436);
+            this.ClientSize = new System.Drawing.Size(585, 448);
+            this.Controls.Add(this.button5);
             this.Controls.Add(this.linkLabel1);
             this.Controls.Add(this.groupBox1);
             this.Controls.Add(this.label8);
@@ -228,5 +242,6 @@ namespace prog_poe_s02_task1
         private System.Windows.Forms.Label label8;
         private System.Windows.Forms.GroupBox groupBox1;
         private System.Windows.Forms.LinkLabel linkLabel1;
+        private System.Windows.Forms.Button button5;
     }
 }

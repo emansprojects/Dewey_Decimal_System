@@ -202,7 +202,7 @@ namespace prog_poe_s02_task1
             this.AutoScaleDimensions = new System.Drawing.SizeF(7F, 15F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.MistyRose;
-            this.ClientSize = new System.Drawing.Size(697, 399);
+            this.ClientSize = new System.Drawing.Size(697, 438);
             this.Controls.Add(this.groupBox3);
             this.Controls.Add(this.groupBox2);
             this.Controls.Add(this.groupBox1);

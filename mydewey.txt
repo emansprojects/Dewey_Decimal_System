@@ -1,0 +1,168 @@
+1+000+Computer science, information and general works
+2+000+Computer science, knowledge and systems
+3+001+Knowledge
+3+002+The book (writing, libraries, and book-related topics)
+3+003+Systems
+3+004+Data processing and computer science
+2+050+Magazines, journals and serials
+3+050+General serial publications
+3+051+Serials in American English
+3+052+Serials in English
+3+053+Serials in other Germanic languages
+2+060+Associations, organizations and museums
+3+060+General organizations and museum science
+3+061+Organizations in North America
+3+062+Organizations in British Isles; in England
+3+063+Organizations in central Europe; in Germany
+2+070+News media, journalism and publishing
+3+070+News media, journalism, and publishing
+3+071+Newspapers in North America
+3+072+Newspapers in British Isles; in England
+3+073+Newspapers in central Europe; in Germany
+1+100+Philosophy and psychology
+2+100+Philosophy
+3+100+Philosophy and psychology
+3+101+Theory of philosophy
+3+102+Miscellany
+3+103+Dictionaries and encyclopedias
+2+120+Epistemology
+3+120+Epistemology, causation, and humankind
+3+121+Epistemology (Theory of knowledge)
+3+122+Causation
+3+123+Determinism and indeterminism
+2+140+Philosophical schools of thought
+3+140+Specific philosophical schools and viewpoints
+3+141+Idealism and related systems and doctrines
+3+142+Critical philosophy
+3+143+Bergsonism and intuitionism
+2+170+Ethics
+3+170+Ethics (Moral philosophy)
+3+171+Ethical systems
+3+172+Political ethics
+3+173+Ethics of family relationships
+1+200+Religion
+2+200+Religion
+3+200+Religion
+3+201+Religious mythology, general classes of religion, interreligious relations and attitudes, social theology
+3+202+Doctrines
+3+203+Public worship and other practices
+2+230+Christianity
+3+230+Christianity
+3+231+God
+3+232+Jesus Christ and his family
+3+233+Humankind
+2+210+Philosophy and theory of religion
+3+210+Philosophy and theory of religion
+3+211+Concepts of God
+3+212+Existence, ways of knowing God, attributes of God
+3+213+Creation
+2+220+The Bible
+3+220+Bible
+3+221+Old Testament (Tanakh)
+3+222+Historical books of Old Testament
+3+223+Poetic books of Old Testament
+1+300+Social sciences
+2+320+Political science
+3+320+Political science (Politics and government)
+3+321+Systems of governments and states
+3+322+Relation of state to organized groups and their members
+3+323+Civil and political rights
+2+330+Economics
+3+330+Economics
+3+331+Labor economics
+3+332+Financial economics
+3+333+Economics of land and energy
+2+340+Law
+3+340+Law
+3+341+Law of nations
+3+342+Constitutional and administrative law
+3+343+Military, defense, public property, public finance, tax, commerce (trade), industrial law
+2+350+Public administration and military science
+3+350+Public administration and military science
+3+351+Public administration
+3+352+General considerations of public administration
+3+353+Specific fields of public administration
+1+400+Language
+2+400+Language
+3+400+Language
+3+401+Philosophy and theory, international languages
+3+402+Miscellany
+3+403+Dictionaries, encyclopedias, concordances
+2+410+Linguistics
+3+410+Linguistics
+3+411+Writing systems of standard forms of languages
+3+412+Etymology of standard forms of languages
+3+413+Dictionaries of standard forms of languages
+2+440+French and related languages
+3+440+French and related Romance languages
+3+441+Writing systems, phonology, phonetics of standard French
+3+442+Etymology of standard French
+3+443+Dictionaries of standard French
+2+460+Spanish, Portuguese, Galician
+3+460+Spanish, Portuguese, Galician
+3+461+Writing systems, phonology, phonetics of standard Spanish
+3+462+Etymology of standard Spanish
+3+463+Dictionaries of standard Spanish
+1+500+Science
+2+500+Science
+3+500+Natural sciences and mathematics
+3+501+Philosophy and theory
+3+502+Miscellany
+3+503+Dictionaries, encyclopedias, concordances
+2+510+Mathematics
+3+510+Mathematics
+3+511+General principles of mathematics
+3+512+Algebra
+3+513+Arithmetic
+2+520+Astronomy
+3+520+Astronomy and allied sciences
+3+521+Celestial mechanics
+3+522+Techniques, procedures, apparatus, equipment, materials
+3+523+Specific celestial bodies and phenomena
+2+530+Physics
+3+530+Physics
+3+531+Classical mechanics
+3+532+Fluid mechanics
+3+533+Pneumatics (Gas mechanics)
+1+600+Technology
+2+600+Technology
+3+600+Technology (Applied sciences)
+3+601+Philosophy and theory
+3+602+Miscellany
+3+603+Dictionaries, encyclopedias, concordances
+2+610+Medicine and health
+3+610+Medicine and health
+3+611+Human anatomy, cytology, histology
+3+612+Human physiology
+3+613+Personal health and safety
+2+620+Engineering
+3+620+Engineering and applied operations
+3+621+Applied physics
+3+622+Mining and related operations
+3+623+Military and nautical engineering
+2+670+Manufacturing
+3+670+Manufacturing
+3+671+Metalworking processes and primary metal products
+3+672+Iron, steel, other iron alloys
+3+673+Nonferrous metals
+1+700+Arts and recreation
+2+700+Arts
+3+700+The Arts
+3+701+Philosophy and theory of fine and decorative arts
+3+702+Miscellany of fine and decorative arts
+3+703+Dictionaries, encyclopedias, concordances of fine and decorative arts
+2+730+Sculpture, ceramics and metalwork
+3+730+Sculpture and related arts
+3+731+Processes, forms, subjects of sculpture
+3+732+Sculpture from earliest times to c. 500, sculpture of non-literate peoples
+3+733+Greek, Etruscan, Roman sculpture
+2+780+Music
+3+780+Music
+3+781+General principles and musical forms
+3+782+Vocal music
+3+783+Music for single voices
+2+750+Painting
+3+750+Painting and paintings
+3+751+Techniques, procedures, apparatus, equipment, materials, forms
+3+752+Color
+3+753+Symbolism, allegory, mythology, legend
